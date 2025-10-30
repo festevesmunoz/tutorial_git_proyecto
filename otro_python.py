@@ -1,2 +1,2 @@
 while True:
-    print("Este es otro archivo de Python")
+    print("Este es otro archivo de Python ")
